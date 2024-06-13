@@ -1,5 +1,4 @@
 # Keylogger_Project
-<<<<<<< HEAD
 =======
 
 ## Description
