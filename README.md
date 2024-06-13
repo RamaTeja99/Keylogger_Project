@@ -15,7 +15,6 @@ This project is an educational implementation of a keylogger using Python. A key
 1. Clone the repository:
     ```sh
     git clone https://github.com/RamaTeja99/Keylogger_Project.git
-    cd keylogger
     ```
 
 2. Install the required dependencies:
