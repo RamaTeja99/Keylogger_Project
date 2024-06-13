@@ -47,4 +47,3 @@ This project is an educational implementation of a keylogger using Python. A key
 
 - `tkinter`: For the graphical user interface.
 - `pynput`: For capturing keyboard events.
->>>>>>> b8f4642f7eb7048f4dd2744d92b9d5506d6f51c5
